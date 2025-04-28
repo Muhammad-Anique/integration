@@ -1,0 +1,25 @@
+About Kroma 
+Kroma Project: AI Video Marketplace
+Project Overview
+Kroma is an AI-powered video marketplace where users can generate videos from images and purchase pre-existing videos. The platform leverages Next.js for the frontend and integrates with several backend technologies to provide a seamless user experience.
+Key Features
+• AI Video Generation: Users can create videos from images using AI.
+    ◦ 4 credits for a 5-second video
+    ◦ 8 credits for a 10-second video
+• Marketplace: Users can purchase pre-existing videos.
+    ◦ Pricing: 2 credits or 4 credits
+• Credit System:
+    ◦ Users purchase credits to generate and buy videos.
+    ◦ Cost: 1 dollar =  credits
+• Technology Stack:
+    ◦ Frontend: Next.js
+    ◦ Backend: Supabase, RunwayML
+    ◦ Payment: Stripe
+• AI SaaS App: The application is designed as an AI-driven SaaS platform.
+• TPU System: TPU (Tensor Processing Unit) system is enabled.
+Technical Details
+• Frontend: Next.js provides a dynamic and responsive user interface.
+• Backend:
+    ◦ Supabase handles database management and user authentication.
+    ◦ RunwayML is used for AI video generation.
+• Payment: Stripe is integrated for secure and efficient payment processing.
